@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="orange_button" parent="Widget.AppCompat.Button.Colored">
+        <item name="backgroundTint">@color/orange</item>
+    </style>
+
+</resources>
