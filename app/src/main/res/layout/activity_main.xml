@@ -113,6 +113,6 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             ads:adSize="BANNER"
-            ads:adUnitId="ca-app-pub-3940256099942544/6300978111"/>
+            ads:adUnitId="ca-app-pub-5077201752951070/3762453329"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
